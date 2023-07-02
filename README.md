@@ -1,4 +1,5 @@
 # 👨‍💻 About Me:
+Hi! I'm Krzysztof Ruciński, a passionate front-end developer.
 `Don't dream about success, work hard for it.`
 
 # 💻 Tech Stack:
